@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Landing Page - Start Bootstrap Theme</title>
+        <title>Selebrasi Wisuda Afdi Fauzul Bahar,S.Kom.</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
@@ -31,7 +31,9 @@
                         <div class="text-center text-white">
                             <!-- Page heading-->
                             <h5>Hello Guys, Saya bermaksud untuk mengundang anda pada :</h5>
-                            <img src="assets/img/Toga-Wisuda.png" alt="Selebrasi Wisuda Afdi">
+                            <!-- <div class="container-toga"> -->
+                                <img class="container-toga" src="assets/img/Toga-Wisuda.png" alt="Selebrasi Wisuda Afdi">
+                            <!-- </div> -->
                             <h1 class="mb-5"> 
                                 SELEBRASI WISUDA 
                                 <br/>

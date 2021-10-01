@@ -625,6 +625,10 @@ progress {
   color: #6c757d;
 }
 
+.container-toga{
+  width: 100%;
+}
+
 .container,
 .container-fluid,
 .container-xxl,
