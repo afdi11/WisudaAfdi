@@ -23,7 +23,9 @@
         <!-- Navigation-->
         <nav class="navbar navbar-light bg-light static-top">
             <div class="container">
-                <a class="navbar-brand" href="#!">Undangan</a>
+                <a class="navbar-brand" href="#!">Undangan <?php 
+                $NAME=$_GET['name'];
+                echo $NAME?></a>
                 <a class="btn btn-primary" href="#pelaksanaan">Insya Alloh Hadir</a>
             </div>
         </nav>
@@ -100,15 +102,15 @@
                         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex"><i class="bi bi-calendar4-event m-auto text-primary"></i></div>
                             <h3>Date</h3>
-                            <p class="lead mb-0">Oktober 2nd 
-                            </br>2021</p>
+                            <p class="lead mb-0">Oktober 2nd 2021
+                            </br>15.00 s.d jangan malem malem lah pokoknya</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex"><i class="bi bi-map m-auto text-primary"></i></div>
                             <h3>Location</h3>
-                            <p class="lead mb-0">Jln. Serbajadi II, Kec. Natar<br>Lampung Selatan</p>
+                            <p class="lead mb-0">Kediaman H. Supardi dan Afsoni,S.Pd.<br>Jln. Serbajadi II, Kec. Natar, <br> Lampung Selatan</p>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -153,7 +155,7 @@
         <!-- Testimonials-->
         <section class="testimonials text-center bg-light">
             <div class="container">
-                <h2 class="mb-5">Terimakasih Tak Terhingga untuk</h2>
+                <h2 class="mb-5">Terimakasih kepada</h2>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
