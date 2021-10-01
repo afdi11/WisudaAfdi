@@ -1,2 +1,2 @@
-# WisudaAfdi
- Wisuda Afdi Fauzul Bahar, S.Kom. | 2 Oktober 2021
+# Harap hadir pada
+ Selebrasi Wisuda Afdi Fauzul Bahar, S.Kom. | 2 Oktober 2021
